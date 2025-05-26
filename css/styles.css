@@ -59,7 +59,6 @@ margin: 0;
 .header-container {
   display: flex;
   align-items: center;
-  width: 1158px;
 } 
 
 .header-logo {
@@ -68,10 +67,6 @@ margin: 0;
 }
 
 .page-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 24px 0;
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -142,7 +137,7 @@ padding: 24px 0;
   letter-spacing: 0.02em;
   color: #ffffff;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 48px;
   max-width: 496px;
   margin-left: auto;
   margin-right: auto;
@@ -175,10 +170,7 @@ padding: 24px 0;
 }
 
 p {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #F4F4FD;
+ 
 }
 
 h1, h2, h3 {
@@ -193,7 +185,7 @@ h1, h2, h3 {
 }
 
 .portfolio-section {
-  background-color: #F4F4FD;
+  background-color: #FFFFFF;
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -207,13 +199,11 @@ margin-bottom: 72px;
 }
 
 .portfolio-item {
-  background-color: #FFFFFF;
-  border-bottom: 1px solid #e7e9fc;
   width: calc((100% - 48px) / 3);
 }
 
 .portfolio-list {
- background-color: #F4F4FD;
+ background-color: #FFFFFF;
  display: flex;
  flex-wrap: wrap;
  gap: 48px 24px;
@@ -228,7 +218,6 @@ margin-bottom: 72px;
 }
 
 .project-category {
-  background-color: #FFFFFF;
   color: #434455;
 }
 
@@ -284,7 +273,6 @@ img {
   display: flex;
   justify-content: center;
   gap: 24px;
-  border-radius: 0 0 4px 4px;
 }
 
 .project-title {
@@ -333,20 +321,14 @@ img {
 
 .benefit-item {
   width: calc((100% - 72px) / 4);
-  padding: 120px 0;
 }
 
 .benefits-list {
  display: flex;
  gap: 24px;
- justify-content: space-between;
- padding: 0;
- margin: 0;
-
 }
 
 .benefits-section {
-  background-color: #ffffff;
   padding: 120px 0;
 }
 .container {
@@ -366,7 +348,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
-margin-bottom: 16px;
 max-width: 264px;
 }
 
