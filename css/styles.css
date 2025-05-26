@@ -168,22 +168,16 @@ padding: 24px 0;
 .button-primary:focus {
   background-color: #404BBF;
 }
-
-p {
- 
-}
-
+/*
 h1, h2, h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  font-size: 36px;
   color: #2e2f42;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   text-transform: capitalize;
 }
-
+*/
 .portfolio-section {
   background-color: #FFFFFF;
   padding-top: 120px;
